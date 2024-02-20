@@ -1,0 +1,46 @@
+
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: yellow;
+    background-color: purple;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    border: 1px solid black;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 250px;
+    position: absolute;
+    margin-left: 1220px;
+    margin-top: -100px;
+    border-radius: 20px;
+
+
+}
+
+html{
+    background-image: url("https://images.pexels.com/photos/2821757/pexels-photo-2821757.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
